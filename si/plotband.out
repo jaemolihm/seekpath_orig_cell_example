@@ -1,0 +1,15 @@
+Program my_qe_bands.py at Fri, 03 Jun 2022 07:03:27 +0000
+prefix  : si
+outdir  : temp_standard/
+filband : si.bands.dat
+temp_standard/si.save/data-file-schema.xml
+Reading temp_standard/si.save/data-file-schema.xml
+high-symmetry point:  0.0000  0.0000  0.0000 x coordinate    0.0000
+high-symmetry point:  0.0000  1.0000  0.0000 x coordinate    1.0000
+high-symmetry point:  0.2500  1.0000  0.2500 x coordinate    1.3536
+high-symmetry point:  0.7500  0.7500  0.0000 x coordinate    1.3536
+high-symmetry point:  0.0000  0.0000  0.0000 x coordinate    2.4142
+high-symmetry point:  0.5000  0.5000  0.5000 x coordinate    3.2802
+high-symmetry point:  0.5000  1.0000  0.0000 x coordinate    3.9873
+high-symmetry point:  0.0000  1.0000  0.0000 x coordinate    4.4873
+Plottable bands (eV) written to file si.bands.dat.gnu
