@@ -6,4 +6,7 @@
 
 ### Example: Silicon
 
+* Standard and non-standard unit cell show identical band structures.
+* Supercell band structure includes an identical copy of the primitive cell band structure and additional folded bands.
+
 ![plot](./si/bands.png)
